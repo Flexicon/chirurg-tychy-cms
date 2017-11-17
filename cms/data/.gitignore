@@ -1,0 +1,4 @@
+# Ignore all DB's 
+*
+# But not the gitignore
+!.gitignore
